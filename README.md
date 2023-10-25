@@ -1,6 +1,6 @@
 # Power BI Dashboard Repository
 
-![Power BI Dashboard Repository](![image](https://github.com/hiranvjoseph/Power_BI_Dashboard/assets/32574833/383eb759-cb1b-4e1b-a31d-546b1b742d97))
+![Power BI Dashboard Repository](https://www.datalabsagency.com/wp-content/uploads/2020/09/Designers-for-Power-BI.png)
 
 Welcome to the Power BI Dashboard Repository by Hiran Joseph.
 
